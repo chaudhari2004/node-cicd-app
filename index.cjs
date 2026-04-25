@@ -1,6 +1,6 @@
 exports.handler = async () => {
     return {
         statusCode: 200,
-        body: "Hello Vivek 🚀 Node.js running without local install"
+        body: "Version 2 🚀 CI/CD Working"
     };
 };
